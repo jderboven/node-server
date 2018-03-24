@@ -1,0 +1,81 @@
+[
+    {
+        "seances": [
+            {
+                "name": "Seance 1",
+                "exercices": [
+                    { 
+                        "id": 1,
+                        "name": "Developpé couché",
+                        "cycles": [{
+                            "tempsRepos": 210,
+                            "series": [
+                                {
+                                    "charge": 65,
+                                    "nombreRepetitions": 10
+                                },
+                                {
+                                    "charge": 62.5,
+                                    "nombreRepetitions": 10
+                                },
+                                {
+                                    "charge": 62.5,
+                                    "nombreRepetitions": 10
+
+                                }
+                            ]
+                        }],
+                        "noteDifficulte": null
+                    },
+                    { 
+                        "id": 2,
+                        "name": "Developpé incliné haltères",
+                        "cycles": [{
+                            "tempsRepos": 120,
+                            "series": [
+                                {
+                                    "charge": 24,
+                                    "nombreRepetitions": 14
+                                },
+                                {
+                                    "charge": 24,
+                                    "nombreRepetitions": 14
+                                },
+                                {
+                                    "charge": 24,
+                                    "nombreRepetitions": 14
+
+                                }
+                            ]
+                        }],
+                        "noteDifficulte": null
+                    },
+                    { 
+                        "id": 3,
+                        "name": "Ecartés à la poulie",
+                        "cycles": [{
+                            "tempsRepos": 90,
+                            "series": [
+                                {
+                                    "charge": 20,
+                                    "nombreRepetitions": 14
+                                },
+                                {
+                                    "charge": 20,
+                                    "nombreRepetitions": 14
+                                },
+                                {
+                                    "charge": 20,
+                                    "nombreRepetitions": 14
+
+                                }
+                            ]
+                        }],
+
+                        "noteDifficulte": null
+                    }
+                ]
+            }
+        ]
+    }
+]
